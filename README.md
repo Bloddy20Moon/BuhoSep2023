@@ -1,6 +1,6 @@
 # TRABAJOS DE SEPTIEMBRE Y OCTUBRE
 ## INTEGRANTES:
-* Fabrizio Zuñiga
+* Fabrizio Sanitago Zuñiga Arivilca
 * Adrian Josue Alvarado Sanchez
 >Proposito: Afiliar y unir un metodo de pagos de culqi con HTML Y CSS
 ###### RECOMENDACION:
